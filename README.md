@@ -1,5 +1,15 @@
 # Time Series Sales Forecasting
 
+## 🎓 Internship Details
+
+**Internship Provider:** CodeTech IT Solutions
+
+**Intern ID:** CITS1618
+
+**Full Name:** Nuka Aravindh
+
+**Duration:** 4 Weeks
+
 ## Project Overview
 
 This project focuses on forecasting future sales using historical sales data and Machine Learning techniques. The objective is to analyze sales trends, create time-based features, and predict future sales values using a Random Forest Regressor.
